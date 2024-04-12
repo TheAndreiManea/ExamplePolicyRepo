@@ -1,0 +1,7 @@
+{
+  "services": {
+    "pii": ["customer-data", "shipping", "shipping-records", "transaction-processing"],
+    "tpsd": ["shipping", "shipping-records"]
+  },
+  "policies": ["pii", "tpsd"]
+}
